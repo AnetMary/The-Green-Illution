@@ -77,7 +77,7 @@ renewables (Spain, Italy: dominant production
 method). Potential saving: 0.5–1.5 Mt
 CO₂/year. Dubai status: not in construction
 specifications.
-Section 2 — Food System: The Primary Finding
+# Section 2 — Food System: The Primary Finding
 This is the investigation's central analysis. Dubai imports 80–85% of its food supply (USDA FAS
 2024). Every kilogram of beef, every litre of milk, every crate of vegetables carries embedded
 production and transport carbon generated elsewhere — carbon that does not appear in any Dubai
@@ -103,7 +103,7 @@ airport lounges, and government canteens achieved 15–25% food service emission
 reductions in Singapore's hawker centre programme (WRI Cool Food Pledge data).
 Dubai's hospitality sector, one of the largest generators of food waste in the city, has no
 equivalent policy framework.
-Section 3 — Last-Mile Freight: The Growing Gap
+# Section 3 — Last-Mile Freight: The Growing Gap
 UAE e-commerce grew to $1.1 billion in online grocery in 2024 (+13% year-on-year, USDA FAS 2024).
 Dubai's delivery vehicle fleet is estimated at 80,000–110,000 vehicles, growing at 10–
 18% per year. At 0.22–0.32 kg CO₂/km per diesel van and 80–130 km of daily route, current annual
@@ -114,36 +114,8 @@ urban cores, restricting diesel vans from designated zones and replacing them wi
 electric cargo bikes for final delivery. Paris documented a 30–45% CO₂ reduction in covered
 zones. Dubai has no urban logistics strategy. The window to shape infrastructure before the fleet
 doubles is narrow.
-C O M P A R A T I V E F I N D I N G S
-The Gaps — Master Comparison
-Section Current CO₂ Alternative (proven) Annual
-Saving
-S1 — Construction 3–6 Mt/yr embodied SCM Cement (NL, DE, UK)
-+Green EAF Steel (ES, IT)
-0.5–1.5 Mt
-S2 — Food System
-(PRIMARY)
-1.5–3.5 Mt/yr
-(full chain)
-RFID Waste Metering
-(South Korea, Taiwan)
-0.15–0.9 Mt
-S2 — Food
-Procurement
-Included above Institutional menu policy
-(Singapore, Copenhagen)
-0.01–0.04
-Mt
-S3 — Last-Mile
-Freight
-0.05–0.12 Mt/yr
-+17% yr growth
-Micro-hubs + Cargo bikes
-(Paris 2021, Amsterdam 2020)
-0.02–0.05
-Mt
-T H E S T R U C T U R A L P A T T E R N
-Who Pays, Who Benefits — and Why It Matters
+## THE STRUCTURAL PATTERN
+# Who Pays, Who Benefits — and Why It Matters
 Mapping every alternative against a single question — who bears the cost of implementation — reveals
 a pattern that is consistent across all four sections of this investigation, and across the original Green
 Illusion analysis of EVs and private aviation.
@@ -161,12 +133,12 @@ This is not a criticism of intent. It is an observation about incentive structur
 50% food waste reduction target by 2030 is exactly the right ambition. South Korea achieved it with a
 mechanism: RFID weighing, accountability fees, and a national framework. Dubai has the target. The
 mechanism does not yet exist.
-C O N C L U S I O N S & R E C O M M E N D A T I O N S
-What an Evidence-Aligned Dubai Climate Policy Would Add
+## CONCLUSIONS AND RECCOMENDATIONS
+# What an Evidence-Aligned Dubai Climate Policy Would Add
 This investigation does not argue that Dubai's climate programme is failing. It argues that it is
 incomplete and that the missing components are not technically difficult, financially prohibitive, or
 socially disruptive. They are institutionally absent.
-Specific Actions Supported by the Evidence
+# Specific Actions Supported by the Evidence
 – 1. Mandate commercial food waste measurement for all hospitality and food service businesses
 with more than 50 covers, submitting data via Dubai Municipality's existing Montaji digital
 platform. Measurement alone — without any reduction target — has been shown to reduce food
@@ -187,7 +159,7 @@ consume. Each one changes the infrastructure, procurement, or accountability fra
 which consumption happens. The distinction matters: climate policies that are perceived as
 restrictions generate resistance. Climate policies that change systems generate results.
 \\\\
-Anet Mary George Data Analyst, Dubai | The Green Illusion
+# Anet Mary George Data Analyst, Dubai | The Green Illusion
 Sources: Dubai Climate Action Plan 2021 · DEWA Annual Report 2023 · UAE MOCCAE · Dubai Municipality Waste Reports 2022–
 2024 · USDA FAS Dubai 2024 · Poore & Nemecek 2018 · Seoul Urban Solutions Agency · Korea Ministry of Environment · IPCC
 AR6 · IEA UAE · CBRE UAE Construction Market 2023 · World Steel 
