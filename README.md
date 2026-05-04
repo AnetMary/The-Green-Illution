@@ -133,7 +133,7 @@ This is not a criticism of intent. It is an observation about incentive structur
 50% food waste reduction target by 2030 is exactly the right ambition. South Korea achieved it with a
 mechanism: RFID weighing, accountability fees, and a national framework. Dubai has the target. The
 mechanism does not yet exist.
-## CONCLUSIONS AND RECCOMENDATIONS
+### CONCLUSIONS AND RECCOMENDATIONS
 # What an Evidence-Aligned Dubai Climate Policy Would Add
 This investigation does not argue that Dubai's climate programme is failing. It argues that it is
 incomplete and that the missing components are not technically difficult, financially prohibitive, or
