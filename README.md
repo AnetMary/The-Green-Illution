@@ -1,13 +1,13 @@
-## THE GREEN ILLUSION
-# Dubai's Carbon Map: Construction, Food & Freight
-# R E S E A R C H S U M M A R Y
+# THE GREEN ILLUSION
+### Dubai's Carbon Map: Construction, Food & Freight
+## RESEARCH SUMMARY
 Anet Mary George | Data Analyst, Dubai
 Monte Carlo Simulation | Python 3 | 10,000 Simulations per Model
 Primary Sources: Dubai Climate Action Plan 2021 · DEWA Annual Report 2023 · UAE Ministry of Climate Change &
 Environment · Dubai Municipality Waste Reports 2022–2024 · USDA FAS Dubai 2024 · South Korea Ministry of
 Environment
-## E X E C U T I V E O V E R V I E W
-# What This Investigation Is — And Why It Matters
+## EXCECUTIVE OVERVIEW
+### What This Investigation Is — And Why It Matters
 Dubai is a city of extraordinary ambition and extraordinary contradiction. Its December 2023 Climate
 Action Plan; the first by a major Middle Eastern city formally aligned with the Paris Agreement;
 commits to a 50% reduction in carbon emissions by 2030 against a 2018 baseline. The plan is real. The
@@ -22,9 +22,9 @@ The methodology throughout is Monte Carlo simulation: every uncertain input is t
 drawn from published literature, run 10,000 times, and reported as a distribution. This is more honest
 than the single-point estimates that dominate official reporting — because the real world does not
 operate at its median.
-## M E T H O D O L O G Y
-# How the Numbers Were Produced
-# Monte Carlo Simulation — The Honest Accounting
+## METHODOLOGY
+### How the Numbers Were Produced
+### Monte Carlo Simulation — The Honest Accounting
 Every input in this investigation is uncertain. Battery manufacturing carbon varies by factory and
 country. Food waste rates shift seasonally. Construction volumes fluctuate with development cycles.
 Standard analysis responds to this uncertainty by picking the most likely number and presenting it as
@@ -56,8 +56,8 @@ downstream operational energy, which is captured in the electricity sector.
 – All alternative scenario savings are conservative — calibrated to the lower end of documented
 real-world outcomes from deployed programmes, not best-case projections.
 ## THE GAPS
-# Where Dubai's Carbon Accounting Ends and the Real Numbers Begin
-# Section 1 — Construction: The Carbon Before Opening Day
+### Where Dubai's Carbon Accounting Ends and the Real Numbers Begin
+### Section 1 — Construction: The Carbon Before Opening Day
 Dubai builds at a pace that few cities in the world match. The concrete and steel that constitute each
 new tower, road, and metro line carry embedded carbon; CO₂ emitted during material production
 before a single kilogram is mixed on site. This embodied carbon sits entirely outside Dubai's
@@ -77,7 +77,7 @@ renewables (Spain, Italy: dominant production
 method). Potential saving: 0.5–1.5 Mt
 CO₂/year. Dubai status: not in construction
 specifications.
-# Section 2 — Food System: The Primary Finding
+### Section 2 — Food System: The Primary Finding
 This is the investigation's central analysis. Dubai imports 80–85% of its food supply (USDA FAS
 2024). Every kilogram of beef, every litre of milk, every crate of vegetables carries embedded
 production and transport carbon generated elsewhere — carbon that does not appear in any Dubai
@@ -103,7 +103,7 @@ airport lounges, and government canteens achieved 15–25% food service emission
 reductions in Singapore's hawker centre programme (WRI Cool Food Pledge data).
 Dubai's hospitality sector, one of the largest generators of food waste in the city, has no
 equivalent policy framework.
-# Section 3 — Last-Mile Freight: The Growing Gap
+### Section 3 — Last-Mile Freight: The Growing Gap
 UAE e-commerce grew to $1.1 billion in online grocery in 2024 (+13% year-on-year, USDA FAS 2024).
 Dubai's delivery vehicle fleet is estimated at 80,000–110,000 vehicles, growing at 10–
 18% per year. At 0.22–0.32 kg CO₂/km per diesel van and 80–130 km of daily route, current annual
@@ -115,7 +115,7 @@ electric cargo bikes for final delivery. Paris documented a 30–45% CO₂ reduc
 zones. Dubai has no urban logistics strategy. The window to shape infrastructure before the fleet
 doubles is narrow.
 ## THE STRUCTURAL PATTERN
-# Who Pays, Who Benefits — and Why It Matters
+### Who Pays, Who Benefits — and Why It Matters
 Mapping every alternative against a single question — who bears the cost of implementation — reveals
 a pattern that is consistent across all four sections of this investigation, and across the original Green
 Illusion analysis of EVs and private aviation.
@@ -138,7 +138,7 @@ mechanism does not yet exist.
 This investigation does not argue that Dubai's climate programme is failing. It argues that it is
 incomplete and that the missing components are not technically difficult, financially prohibitive, or
 socially disruptive. They are institutionally absent.
-# Specific Actions Supported by the Evidence
+### Specific Actions Supported by the Evidence
 – 1. Mandate commercial food waste measurement for all hospitality and food service businesses
 with more than 50 covers, submitting data via Dubai Municipality's existing Montaji digital
 platform. Measurement alone — without any reduction target — has been shown to reduce food
@@ -159,7 +159,7 @@ consume. Each one changes the infrastructure, procurement, or accountability fra
 which consumption happens. The distinction matters: climate policies that are perceived as
 restrictions generate resistance. Climate policies that change systems generate results.
 \\\\
-# Anet Mary George Data Analyst, Dubai | The Green Illusion
+### Anet Mary George Data Analyst, Dubai | The Green Illusion
 Sources: Dubai Climate Action Plan 2021 · DEWA Annual Report 2023 · UAE MOCCAE · Dubai Municipality Waste Reports 2022–
 2024 · USDA FAS Dubai 2024 · Poore & Nemecek 2018 · Seoul Urban Solutions Agency · Korea Ministry of Environment · IPCC
 AR6 · IEA UAE · CBRE UAE Construction Market 2023 · World Steel 
